@@ -1,6 +1,6 @@
-<html>
+<html lang="ja">
 <head>
-<title>パスワード認証</title>
+<meta charset="utf-8">
 </head>
 <body>
 
